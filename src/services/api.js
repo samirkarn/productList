@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = process.env.REACT_APP_API_URL || '/api/db.json';
+const API_URL = process.env.REACT_APP_API_URL || 5000;
 
 console.log(`Server is running on ${API_URL}`)
 
