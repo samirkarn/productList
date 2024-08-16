@@ -1,0 +1,20 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Google Pixel 6 Pro",
+      "data": {
+        "color": "Cloudy White",
+        "capacity": "128"
+      }
+    },
+    {
+      "id": "2",
+      "name": "new device",
+      "data": {
+        "color": "Red",
+        "capacity": 64
+      }
+    }
+  ]
+}
